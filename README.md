@@ -22,7 +22,7 @@ pod "BlinkingLabel"
 
 ## Author
 
-Iamlordvoldemort, info@anthonylayne.com
+iamlordvodemort, info@anthonylayne.com
 
 ## License
 
